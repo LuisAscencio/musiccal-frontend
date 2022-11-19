@@ -12,7 +12,7 @@
     "react-dom": "^16.10.1",
     "react-fft-flipbook": "^0.1.5",
     "react-mic": "^12.4.1",
-    "react-scripts": "3.1.2",
+    "react-scripts": "5.0.1",
     "tonal": "^2.2.2",
     "tone": "^13.8.25",
     "web-audio-analyser": "^2.0.1"
